@@ -1,0 +1,8 @@
+<map id="ram_poke_context" name="ram_poke_context">
+<area shape="rect" id="node2" href="$structlibusb__device__handle.html" title="libusb_device_handle" alt="" coords="5,414,163,441"/>
+<area shape="rect" id="node3" href="$structlist__head.html" title="list_head" alt="" coords="67,13,146,40"/>
+<area shape="rect" id="node4" href="$structlibusb__device.html" title="libusb_device" alt="" coords="105,325,212,352"/>
+<area shape="rect" id="node6" href="$structlibusb__context.html" title="libusb_context" alt="" coords="153,236,268,262"/>
+<area shape="rect" id="node5" href="$structlibusb__device__descriptor.html" title="libusb_device_descriptor" alt="" coords="292,236,471,262"/>
+<area shape="rect" id="node7" href="$structusbi__event.html" title="usbi_event" alt="" coords="269,13,360,40"/>
+</map>

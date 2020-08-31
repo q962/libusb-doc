@@ -1,0 +1,8 @@
+<map id="node_args" name="node_args">
+<area shape="rect" id="node2" href="$structlibusb__context.html" title="libusb_context" alt="" coords="5,236,120,262"/>
+<area shape="rect" id="node6" href="$structlibusb__device.html" title="libusb_device" alt="" coords="152,325,259,352"/>
+<area shape="rect" id="node3" href="$structlist__head.html" title="list_head" alt="" coords="213,13,291,40"/>
+<area shape="rect" id="node4" href="$structusbi__event.html" title="usbi_event" alt="" coords="17,13,108,40"/>
+<area shape="rect" id="node5" href="$structdiscovered__devs.html" title="discovered_devs" alt="" coords="111,414,239,441"/>
+<area shape="rect" id="node7" href="$structlibusb__device__descriptor.html" title="libusb_device_descriptor" alt="" coords="144,236,323,262"/>
+</map>

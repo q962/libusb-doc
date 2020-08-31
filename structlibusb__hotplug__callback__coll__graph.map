@@ -1,0 +1,5 @@
+<map id="libusb_hotplug_callback" name="libusb_hotplug_callback">
+<area shape="rect" id="node2" href="$structlist__head.html" title="list_head" alt="" coords="36,13,115,40"/>
+<area shape="rect" id="node3" href="$structlibusb__context.html" title="libusb_context" alt="" coords="102,236,217,262"/>
+<area shape="rect" id="node4" href="$structusbi__event.html" title="usbi_event" alt="" coords="218,13,309,40"/>
+</map>

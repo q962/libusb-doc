@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['libusb_5fbos_5ftype',['libusb_bos_type',['../group__libusb__desc.html#ga6ccabbf3b3728ae69608ba83bba4e64c',1,'libusb.h']]],
+  ['libusb_5fcapability',['libusb_capability',['../group__libusb__misc.html#gaab1b3fa0728c06fafbee897795889bd5',1,'libusb.h']]],
+  ['libusb_5fclass_5fcode',['libusb_class_code',['../group__libusb__desc.html#gac529888effbefef8af4f9d17ebc903a1',1,'libusb.h']]],
+  ['libusb_5fdescriptor_5ftype',['libusb_descriptor_type',['../group__libusb__desc.html#ga0a2e8a25dfdebf29fdd4764dcdbc1a9c',1,'libusb.h']]],
+  ['libusb_5fendpoint_5fdirection',['libusb_endpoint_direction',['../group__libusb__desc.html#ga86c880af878493aa8f805c2aba654b8b',1,'libusb.h']]],
+  ['libusb_5fendpoint_5ftransfer_5ftype',['libusb_endpoint_transfer_type',['../group__libusb__desc.html#ga8c93c0ec3fccf1c44e8ec7639619a53e',1,'libusb.h']]],
+  ['libusb_5ferror',['libusb_error',['../group__libusb__misc.html#gab2323aa0f04bc22038e7e1740b2f29ef',1,'libusb.h']]],
+  ['libusb_5fhotplug_5fevent',['libusb_hotplug_event',['../group__libusb__hotplug.html#ga556d598ca379618a41bbec3597f55dcf',1,'libusb.h']]],
+  ['libusb_5fhotplug_5fflag',['libusb_hotplug_flag',['../group__libusb__hotplug.html#ga95ce2ec85dec177854c423cea2853c52',1,'libusb.h']]],
+  ['libusb_5fiso_5fsync_5ftype',['libusb_iso_sync_type',['../group__libusb__desc.html#gaa2231202dfe12eddca49b1193d44a441',1,'libusb.h']]],
+  ['libusb_5fiso_5fusage_5ftype',['libusb_iso_usage_type',['../group__libusb__desc.html#gab72474551b0eb965401e6febb856007c',1,'libusb.h']]],
+  ['libusb_5flog_5fcb_5fmode',['libusb_log_cb_mode',['../group__libusb__lib.html#ga20e11f6f5a3b5a075fdf44969f3a9310',1,'libusb.h']]],
+  ['libusb_5flog_5flevel',['libusb_log_level',['../group__libusb__lib.html#ga2d6144203f0fc6d373677f6e2e89d2d2',1,'libusb.h']]],
+  ['libusb_5foption',['libusb_option',['../group__libusb__lib.html#ga07d4ec54cf575d672ba94c72b3c0de7c',1,'libusb.h']]],
+  ['libusb_5frequest_5frecipient',['libusb_request_recipient',['../group__libusb__misc.html#ga20a4e8a729aa543fa742a5086596cbae',1,'libusb.h']]],
+  ['libusb_5frequest_5ftype',['libusb_request_type',['../group__libusb__misc.html#ga0b0933ae70744726cde11254c39fac91',1,'libusb.h']]],
+  ['libusb_5fspeed',['libusb_speed',['../group__libusb__dev.html#ga2959abf1184f87b2ce06fe90db6ce614',1,'libusb.h']]],
+  ['libusb_5fss_5fusb_5fdevice_5fcapability_5fattributes',['libusb_ss_usb_device_capability_attributes',['../group__libusb__desc.html#gaad5a5399176a35a64164dafad7fe4fcd',1,'libusb.h']]],
+  ['libusb_5fstandard_5frequest',['libusb_standard_request',['../group__libusb__misc.html#ga5b5912057c2d7e23b3ed5aa0c20236df',1,'libusb.h']]],
+  ['libusb_5fsupported_5fspeed',['libusb_supported_speed',['../group__libusb__desc.html#ga1454797ecc0de4d084c1619c420014f6',1,'libusb.h']]],
+  ['libusb_5ftransfer_5fflags',['libusb_transfer_flags',['../group__libusb__asyncio.html#ga1fb47dd0f7c209b60a3609ff0c03d56d',1,'libusb.h']]],
+  ['libusb_5ftransfer_5fstatus',['libusb_transfer_status',['../group__libusb__asyncio.html#ga9fcb2aa23d342060ebda1d0cf7478856',1,'libusb.h']]],
+  ['libusb_5ftransfer_5ftype',['libusb_transfer_type',['../group__libusb__asyncio.html#gacb52027036a07de6ecc6c2bf07d07c71',1,'libusb.h']]],
+  ['libusb_5fusb_5f2_5f0_5fextension_5fattributes',['libusb_usb_2_0_extension_attributes',['../group__libusb__desc.html#gacb8cfa928bffdd0066a3dd2e6aba0558',1,'libusb.h']]]
+];

@@ -1,0 +1,7 @@
+<map id="winusb_interface" name="winusb_interface">
+<area shape="rect" id="node2" href="$struct__USBD__ISO__PACKET__DESCRIPTOR.html" title="_USBD_ISO_PACKET_DESCRIPTOR" alt="" coords="240,5,479,32"/>
+<area shape="rect" id="node3" href="$structWINUSB__PIPE__INFORMATION__EX.html" title="WINUSB_PIPE_INFORMATION_EX" alt="" coords="247,56,472,83"/>
+<area shape="rect" id="node4" href="$struct__WINUSB__SETUP__PACKET.html" title="_WINUSB_SETUP_PACKET" alt="" coords="267,107,452,133"/>
+<area shape="rect" id="node5" href="$struct__KISO__CONTEXT.html" title="_KISO_CONTEXT" alt="" coords="297,164,422,191"/>
+<area shape="rect" id="node6" href="$struct__KISO__PACKET.html" title="_KISO_PACKET" alt="" coords="5,164,120,191"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="windows_device_priv" name="windows_device_priv">
+<area shape="rect" id="node2" href="$structusbdk__device__priv.html" title="usbdk_device_priv" alt="" coords="425,51,563,77"/>
+<area shape="rect" id="node3" href="$structUSB__DK__DEVICE__ID.html" title="USB_DK_DEVICE_ID" alt="" coords="55,5,204,32"/>
+<area shape="rect" id="node4" href="$structUSB__CONFIGURATION__DESCRIPTOR.html" title="USB_CONFIGURATION_DESCRIPTOR" alt="" coords="5,73,253,100"/>
+<area shape="rect" id="node5" href="$structwinusb__device__priv.html" title="winusb_device_priv" alt="" coords="423,136,565,163"/>
+<area shape="rect" id="node6" href="$structwindows__usb__api__backend.html" title="windows_usb_api_backend" alt="" coords="34,141,225,168"/>
+<area shape="rect" id="node7" href="$structhid__device__priv.html" title="hid_device_priv" alt="" coords="70,192,189,219"/>
+</map>

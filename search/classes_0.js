@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['_5fhidd_5fattirbutes',['_HIDD_ATTIRBUTES',['../struct__HIDD__ATTIRBUTES.html',1,'']]],
+  ['_5fhidp_5fcaps',['_HIDP_CAPS',['../struct__HIDP__CAPS.html',1,'']]],
+  ['_5fhidp_5fvalue_5fcaps',['_HIDP_VALUE_CAPS',['../struct__HIDP__VALUE__CAPS.html',1,'']]],
+  ['_5fkiso_5fcontext',['_KISO_CONTEXT',['../struct__KISO__CONTEXT.html',1,'']]],
+  ['_5fkiso_5fpacket',['_KISO_PACKET',['../struct__KISO__PACKET.html',1,'']]],
+  ['_5fklib_5fversion',['_KLIB_VERSION',['../struct__KLIB__VERSION.html',1,'']]],
+  ['_5fusb_5fconfiguration_5fdescriptor_5fshort',['_USB_CONFIGURATION_DESCRIPTOR_SHORT',['../struct__USB__CONFIGURATION__DESCRIPTOR__SHORT.html',1,'']]],
+  ['_5fusb_5fdescriptor_5frequest',['_USB_DESCRIPTOR_REQUEST',['../struct__USB__DESCRIPTOR__REQUEST.html',1,'']]],
+  ['_5fusb_5fhub_5fdescriptor',['_USB_HUB_DESCRIPTOR',['../struct__USB__HUB__DESCRIPTOR.html',1,'']]],
+  ['_5fusb_5fhub_5finformation',['_USB_HUB_INFORMATION',['../struct__USB__HUB__INFORMATION.html',1,'']]],
+  ['_5fusb_5fnode_5fconnection_5finformation_5fex',['_USB_NODE_CONNECTION_INFORMATION_EX',['../struct__USB__NODE__CONNECTION__INFORMATION__EX.html',1,'']]],
+  ['_5fusb_5fnode_5fconnection_5finformation_5fex_5fv2',['_USB_NODE_CONNECTION_INFORMATION_EX_V2',['../struct__USB__NODE__CONNECTION__INFORMATION__EX__V2.html',1,'']]],
+  ['_5fusb_5fnode_5fconnection_5finformation_5fex_5fv2_5fflags',['_USB_NODE_CONNECTION_INFORMATION_EX_V2_FLAGS',['../union__USB__NODE__CONNECTION__INFORMATION__EX__V2__FLAGS.html',1,'']]],
+  ['_5fusb_5fnode_5finformation',['_USB_NODE_INFORMATION',['../struct__USB__NODE__INFORMATION.html',1,'']]],
+  ['_5fusb_5fprotocols',['_USB_PROTOCOLS',['../union__USB__PROTOCOLS.html',1,'']]],
+  ['_5fusbd_5fiso_5fpacket_5fdescriptor',['_USBD_ISO_PACKET_DESCRIPTOR',['../struct__USBD__ISO__PACKET__DESCRIPTOR.html',1,'']]],
+  ['_5fwinusb_5fsetup_5fpacket',['_WINUSB_SETUP_PACKET',['../struct__WINUSB__SETUP__PACKET.html',1,'']]]
+];

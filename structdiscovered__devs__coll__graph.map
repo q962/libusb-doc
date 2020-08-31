@@ -1,0 +1,7 @@
+<map id="discovered_devs" name="discovered_devs">
+<area shape="rect" id="node2" href="$structlibusb__device.html" title="libusb_device" alt="" coords="74,325,181,352"/>
+<area shape="rect" id="node3" href="$structlist__head.html" title="list_head" alt="" coords="5,13,84,40"/>
+<area shape="rect" id="node5" href="$structlibusb__context.html" title="libusb_context" alt="" coords="70,236,185,262"/>
+<area shape="rect" id="node4" href="$structlibusb__device__descriptor.html" title="libusb_device_descriptor" alt="" coords="209,236,387,262"/>
+<area shape="rect" id="node6" href="$structusbi__event.html" title="usbi_event" alt="" coords="186,13,277,40"/>
+</map>

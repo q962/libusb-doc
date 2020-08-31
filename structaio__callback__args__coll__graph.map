@@ -1,0 +1,10 @@
+<map id="aio_callback_args" name="aio_callback_args">
+<area shape="rect" id="node2" href="$structlibusb__transfer.html" title="libusb_transfer" alt="" coords="177,504,293,530"/>
+<area shape="rect" id="node3" href="$structlibusb__device__handle.html" title="libusb_device_handle" alt="" coords="5,414,163,441"/>
+<area shape="rect" id="node4" href="$structlist__head.html" title="list_head" alt="" coords="85,13,163,40"/>
+<area shape="rect" id="node5" href="$structlibusb__device.html" title="libusb_device" alt="" coords="129,325,236,352"/>
+<area shape="rect" id="node7" href="$structlibusb__context.html" title="libusb_context" alt="" coords="171,236,285,262"/>
+<area shape="rect" id="node6" href="$structlibusb__device__descriptor.html" title="libusb_device_descriptor" alt="" coords="309,236,488,262"/>
+<area shape="rect" id="node8" href="$structusbi__event.html" title="usbi_event" alt="" coords="287,13,377,40"/>
+<area shape="rect" id="node9" href="$structlibusb__iso__packet__descriptor.html" title="libusb_iso_packet_descriptor" alt="" coords="187,414,392,441"/>
+</map>

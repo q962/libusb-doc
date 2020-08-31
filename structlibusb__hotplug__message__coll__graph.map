@@ -1,0 +1,7 @@
+<map id="libusb_hotplug_message" name="libusb_hotplug_message">
+<area shape="rect" id="node2" href="$structlist__head.html" title="list_head" alt="" coords="79,13,157,40"/>
+<area shape="rect" id="node3" href="$structlibusb__device.html" title="libusb_device" alt="" coords="117,325,223,352"/>
+<area shape="rect" id="node5" href="$structlibusb__context.html" title="libusb_context" alt="" coords="165,236,279,262"/>
+<area shape="rect" id="node4" href="$structlibusb__device__descriptor.html" title="libusb_device_descriptor" alt="" coords="303,236,482,262"/>
+<area shape="rect" id="node6" href="$structusbi__event.html" title="usbi_event" alt="" coords="281,13,371,40"/>
+</map>
